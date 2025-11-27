@@ -72,3 +72,6 @@ local.properties
 .project
 .classpath
 .settings/
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
